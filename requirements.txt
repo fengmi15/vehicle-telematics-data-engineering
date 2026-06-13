@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+plotly
+streamlit
+scikit-learn
+python-dotenv
+cantools
+pynmea2
+folium
+streamlit-folium
